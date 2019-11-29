@@ -1,0 +1,6 @@
+/Users/petreleonardmacamete/CLionProjects/AoCTemplate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/petreleonardmacamete/CLionProjects/AoCTemplate/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/petreleonardmacamete/CLionProjects/AoCTemplate/cmake-build-debug/CMakeFiles/AoCTemplate.dir
+/Users/petreleonardmacamete/CLionProjects/AoCTemplate/cmake-build-debug/clip/CMakeFiles/rebuild_cache.dir
+/Users/petreleonardmacamete/CLionProjects/AoCTemplate/cmake-build-debug/clip/CMakeFiles/edit_cache.dir
+/Users/petreleonardmacamete/CLionProjects/AoCTemplate/cmake-build-debug/clip/CMakeFiles/clip.dir

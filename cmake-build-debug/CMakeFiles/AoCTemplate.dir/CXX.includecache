@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/petreleonardmacamete/CLionProjects/AoCTemplate/clip/clip.h
+cassert
+-
+memory
+-
+string
+-
+
+/Users/petreleonardmacamete/CLionProjects/AoCTemplate/main.cpp
+iostream
+-
+clip/clip.h
+/Users/petreleonardmacamete/CLionProjects/AoCTemplate/clip/clip.h
+
